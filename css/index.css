@@ -122,7 +122,7 @@ header {
     text-transform: uppercase;
     text-decoration: none;
     padding: 28px 0;
-    border-bottom: 5px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
 .nav_bar a:hover {
     border-bottom: 4px solid #f54e77;
@@ -132,6 +132,7 @@ header {
     color: #ff3f6c;
     font-size: 10px;
 }
+
 
 .search_bar {
     height: 40px;
